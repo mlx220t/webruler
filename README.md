@@ -1,7 +1,7 @@
 # Webruler - Simple Ruler for the web developers.
 You can change the width, drag, change position of the ruler.
 
-You can see the Demo here: http://web.kupibo.com.ua/demo/js/ruler/index.html
+You can see the Demo here: http://web.kupibo.com.ua/_demo/js/ruler/
 
 #### You should add:
 
